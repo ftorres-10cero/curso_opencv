@@ -1,4 +1,4 @@
-# Seccion 1, Lección 5
+# Seccion 1, Lección 6
 # Operaciones Básicas en Imágenes en OpcenCV con Python
 
 import numpy as np

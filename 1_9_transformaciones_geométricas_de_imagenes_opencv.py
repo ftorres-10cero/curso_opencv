@@ -1,5 +1,5 @@
 # Seccion 1, Lección 9
-# Transformaciones geométricas de imágene
+# Transformaciones geométricas de imágenes
 
 # Aprender a aplicar diferentes transformaciones geométricas a imágenes, tales como: traslación, rotación, transformación afín, etc.
 #
